@@ -1,0 +1,10 @@
+To run the code open student face then put photo with the photo name is that person name
+
+Thing need to change from the code for the code running smoothly
+1.Change line 10 path to your student_face location
+2.Change line 54 and 56 path to your excel path
+
+How to make the code run as application
+1.Installing pyinstaller 
+2.Open CMD on your facedetection.py folder 
+3.Type "pyinstaller --onefile --windowed --collect-data=face_recognition_models facerecognition.py
