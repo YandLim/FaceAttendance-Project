@@ -1,5 +1,6 @@
 # [Face-Attendance](https://github.com/MrAnon89/FaceAttendance-Project/edit/main/README.md)
-Start: 08/01/24 | Finish: 23/04/24
+Start: 08/01/24  |  Finish: 23/04/24
+
 The face attendance system uses facial recognition to automatically track attendance. When a person approaches the system, it captures their face, matches it against a stored database, and records their attendance without the need for manual input.
 
 ## The story behind the project:
