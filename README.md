@@ -6,7 +6,7 @@ The face attendance system uses facial recognition to automatically track attend
 ## The story behind the project:
 When our school final project approach was announced, we were given four months to create something from scratch. My group decided to seize the opportunity and spent the first month planning the workflow. In the second and third months, we focused on turning our plan into a functional application. During the final month, I took the opportunity to debug, double-check everything, and prepare the proposal report for submission to the school. The idea for the project came from my frustration with the time-consuming attendance process, where the teacher had to shout our names to check attendance every class. I remembered that the foundation of coding is to solve real-life problems, so I decided to create the face attendance system as a solution to this issue. As a result, our group received the second-highest score in the school.
 
-## The framework and libraies i work with:
+## The framework and libraies I work with:
 1. OpenCV
    - Image and video capture and processing.
    - Drawing shapes and person's name oround the detected face.
